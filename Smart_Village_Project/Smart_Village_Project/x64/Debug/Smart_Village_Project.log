@@ -1,0 +1,58 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(17,37): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(34,46): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(34,28): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(49,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(57,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(142,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(174,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(236,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(245,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(260,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(269,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(284,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(301,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(366,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(376,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(386,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(396,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(406,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(416,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(426,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(436,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(456,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(466,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(480,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(491,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(516,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(548,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(569,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(581,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(634,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(640,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(647,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(804,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(814,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(823,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(832,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(840,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(849,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(858,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(866,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(875,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(884,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(893,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(902,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(911,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(920,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(929,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(937,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1015,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1022,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1023,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1024,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1025,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\USER\source\repos\Smart_Village_Project\Smart_Village_Project\main.cpp(1026,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Smart_Village_Project.vcxproj -> C:\Users\USER\source\repos\Smart_Village_Project\x64\Debug\Smart_Village_Project.exe
+          1 file(s) copied.
