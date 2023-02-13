@@ -1,2 +1,2 @@
 # Smart-Village
-Open GL using C++
+Open GL using C
